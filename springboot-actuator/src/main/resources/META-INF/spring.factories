@@ -1,3 +1,2 @@
-#À©Õ¹Ð§¹û
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
 com.springcloudstudy.validation.WebAutoConfiguration
